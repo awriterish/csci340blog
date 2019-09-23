@@ -4,4 +4,13 @@ title: Content
 permalink: /content/
 ---
 
-This is a simple test on whether or not this works.
+Hello!
+
+If you are reading this page, you probably already know that I myself am a content creator.  I make videos on the popular game, [Minecraft](minecraft.net).  I make tutorials, let's play series and showcases on my [YouTube](youtube.com/c/awriterish) channel for the Bedrock, also known as Pocket, edition of the game.
+
+Another thing I will do on occasion is live stream over on [Twitch](twitch.tv/awriterish) where I will do tours of servers or live stream parts of my current let's play series.
+
+[Discord](discord.gg/QMdfg3G)
+[Twitter](twitter.com/awriterish)
+[Patreon](patreon.com/awriterish)
+[Ko-Fi](ko-fi.com/awriterish)
