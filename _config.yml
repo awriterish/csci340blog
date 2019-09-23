@@ -33,6 +33,8 @@ navigation:
     url: /index.html
   - title: About
     url: /about
+  - title: Content
+    url: /content
 
 social:
   github: awriterish
