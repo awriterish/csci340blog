@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Styles"
+date: 2019-09-22 20:59:20 -0500
+categories: content styles jekyll
+author: "Nova Blankenship"
+---
+
+My blog now has a style!  This style is called Long Haul and can be found [here](https://github.com/brianmaierjr/long-haul).  I had quite a few issues with styling this blog.  I first off tried to use the [Massively](https://github.com/jekyllup/jekyll-theme-massively) theme, however I could not get it to work whatsoever.  However, massively is a beautiful theme and if you can get it to work, I highly suggest using it.
+![Massively page example](../assets/img/massively.png)
+
+Another issue that I ran into was when originally running the bundle install, where it would install an outdated version of the tzinfo gem. I do not know if this was an issue for others, but it can be simply solved by running the command `bundle update tzinfo`.  Beyond that, everything is making sense so far.  Everything else is very intuitive, and I'm looking forward to customizing this webpage even more!
+
+I'm not going to lie, I had to redo this blog multiple times while trying to figure out how to install a theme, and this is what my third attempt at blog looks like.  As you can see, I got pretty efficient by the end, being able to do this in about an hour.
+![GitKraken showcase](../assets/img/gitkraken.png)
+
+All in all, this project has definitely shown me how to grow from my mistakes, and I'm super excited for what this may lead to!
+
+Sincerely,
+Nova Blankenship
