@@ -33,8 +33,11 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
+
+social:
+  github: awriterish
+  twitter: awriterish
+  email: awriterish@outlook.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
