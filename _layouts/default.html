@@ -54,8 +54,8 @@
                 <nav id="header-main-menu">
                     <ul class="main-menu sm sm-clean">
                         <li><a href="{{'/index.html' | prepend: site.baseurl}}" class="current">Home</a></li>
-                        <li><a href="about/">About</a></li>
-                        <li><a href="content/">Content</a></li>
+                        <li><a href="{{'/about/' | prepend: site.baseurl}}">About</a></li>
+                        <li><a href="{{'/content/' | prepend: site.baseurl}}">Content</a></li>
                     </ul>
                 </nav>
                 <footer>
@@ -66,7 +66,7 @@
             </div>
             <div class="menu-right-part">
                 <div class="logo-holder">
-                    <a href="index.html">
+                    <a href="{{'/index.html' | prepend: site.baseurl}}">
                         <img src="{{'/assets/img/logo.jpg' | prepend: site.baseurl}}" alt="AWRITERISH">
                     </a>
                 </div>
