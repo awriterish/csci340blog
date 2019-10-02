@@ -1,0 +1,13 @@
+---
+layout: post
+title: "SQL Diagrams"
+date: 2019-10-01 16:23:10 -0500
+categories: sql database data
+author: "Nova Blankenship"
+---
+
+Hello! This is my post for lab 5 regarding Schemas and SQL Databases.
+
+
+###Assumptions
+Throughout this lab, I made many assumptions about
