@@ -16,7 +16,10 @@ I also had so assume how entity relations worked and do some research on that as
 The final main assumption I made is that there should be a name as well as some other information about the buyer and the seller.
 
 ### Draw.IO relation Diagram
-![draw.io diagram](awriterish.github.io/csci340blog/assets/img/drawiodiagram.png)
+![draw.io diagram](http://awriterish.github.io/csci340blog/assets/img/drawiodiagram.png)
 
 ### Vertabelo SQL Tables
-![SQL Tables](awriterish.github.io/csci340blog/assets/img/sqldiagram.png)
+![SQL Tables](http://awriterish.github.io/csci340blog/assets/img/sqldiagram.png)
+
+### Final Takeaway
+I am pretty happy with how my diagrams turned out.  I think the flow of them is very intuitive and my Draw.IO and Vertabelo diagrams are easily comprable.
